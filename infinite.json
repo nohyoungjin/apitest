@@ -1,0 +1,672 @@
+{
+    "hits": [{
+        "created_at": "2022-05-12T05:53:58.000Z",
+        "title": "Volt Gaming",
+        "url": "https://play.google.com/store/apps/details?id=com.volt.gaming\u0026hl=en_US\u0026gl=US",
+        "author": "yashrajyd",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 1,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652334838,
+        "_tags": ["story", "author_yashrajyd", "story_31349777"],
+        "objectID": "31349777",
+        "_highlightResult": {
+            "title": {
+                "value": "Volt Gaming",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://play.google.com/store/apps/details?id=com.volt.gaming\u0026hl=en_US\u0026gl=US",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "yashrajyd",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:53:06.000Z",
+        "title": "How to fix democracy: empower the best informed voters",
+        "url": "https://demodexio.substack.com/p/how-to-fix-democracy-empower-the",
+        "author": "telotortium",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652334786,
+        "_tags": ["story", "author_telotortium", "story_31349768"],
+        "objectID": "31349768",
+        "_highlightResult": {
+            "title": {
+                "value": "How to fix democracy: empower the best informed voters",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://demodexio.substack.com/p/how-to-fix-democracy-empower-the",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "telotortium",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:52:34.000Z",
+        "title": "Ask HN: Does it matter if development team members have the camera off?",
+        "url": null,
+        "author": "andrewstuart",
+        "points": 1,
+        "story_text": "Do you think it matters in software development if certain team members have their camera almost always off?\u003cp\u003eWhat difference does it make?\u003cp\u003eAre you camera on or off?",
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652334754,
+        "_tags": ["story", "author_andrewstuart", "story_31349765", "ask_hn"],
+        "objectID": "31349765",
+        "_highlightResult": {
+            "title": {
+                "value": "Ask HN: Does it matter if development team members have the camera off?",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "andrewstuart",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_text": {
+                "value": "Do you think it matters in software development if certain team members have their camera almost always off?\u003cp\u003eWhat difference does it make?\u003cp\u003eAre you camera on or off?",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:47:26.000Z",
+        "title": "Canary testing: What is it and why is it used?",
+        "url": "https://medium.com/synologyc2/canary-testing-what-is-it-and-why-is-it-used-aa9c845f88bc",
+        "author": "JTpe18",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652334446,
+        "_tags": ["story", "author_JTpe18", "story_31349734"],
+        "objectID": "31349734",
+        "_highlightResult": {
+            "title": {
+                "value": "Canary testing: What is it and why is it used?",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://medium.com/synologyc2/canary-testing-what-is-it-and-why-is-it-used-aa9c845f88bc",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "JTpe18",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:43:45.000Z",
+        "title": "EOS Was the World’s Most-Hyped Blockchain. Its Fans Want It Back",
+        "url": "https://www.wired.co.uk/article/eos-bullish-blockone-blockchain",
+        "author": "conanxin",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652334225,
+        "_tags": ["story", "author_conanxin", "story_31349716"],
+        "objectID": "31349716",
+        "_highlightResult": {
+            "title": {
+                "value": "EOS Was the World’s Most-Hyped Blockchain. Its Fans Want It Back",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://www.wired.co.uk/article/eos-bullish-blockone-blockchain",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "conanxin",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:43:01.000Z",
+        "title": "Composing Better Emails (2019)",
+        "url": "https://iridakos.com/programming/2019/06/26/composing-better-emails",
+        "author": "laz_arus",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652334181,
+        "_tags": ["story", "author_laz_arus", "story_31349709"],
+        "objectID": "31349709",
+        "_highlightResult": {
+            "title": {
+                "value": "Composing Better Emails (2019)",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://iridakos.com/programming/2019/06/26/composing-better-emails",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "laz_arus",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:37:37.000Z",
+        "title": "Are Podcasts Getting Worse?",
+        "url": "https://rephonic.com/blog/are-podcasts-getting-worse",
+        "author": "drpancake",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652333857,
+        "_tags": ["story", "author_drpancake", "story_31349675"],
+        "objectID": "31349675",
+        "_highlightResult": {
+            "title": {
+                "value": "Are Podcasts Getting Worse?",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://rephonic.com/blog/are-podcasts-getting-worse",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "drpancake",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:36:31.000Z",
+        "title": "XanMod Kernel",
+        "url": "https://xanmod.org/",
+        "author": "xbmcuser",
+        "points": 2,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652333791,
+        "_tags": ["story", "author_xbmcuser", "story_31349665"],
+        "objectID": "31349665",
+        "_highlightResult": {
+            "title": {
+                "value": "XanMod Kernel",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://xanmod.org/",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "xbmcuser",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:35:09.000Z",
+        "title": "El Salvador buys more Bitcoin after ratings agency downgrades its debt",
+        "url": "https://arstechnica.com/tech-policy/2022/05/el-salvador-buys-more-bitcoin-after-ratings-agency-downgrades-its-debt/",
+        "author": "chriswd",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652333709,
+        "_tags": ["story", "author_chriswd", "story_31349658"],
+        "objectID": "31349658",
+        "_highlightResult": {
+            "title": {
+                "value": "El Salvador buys more Bitcoin after ratings agency downgrades its debt",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://arstechnica.com/tech-policy/2022/05/el-salvador-buys-more-bitcoin-after-ratings-agency-downgrades-its-debt/",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "chriswd",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:33:35.000Z",
+        "title": "Ask HN: What are some good sources of data that most people don't know about?",
+        "url": null,
+        "author": "JacobAldridge",
+        "points": 2,
+        "story_text": "I remember my first job in a real estate agency in 2000 - if you\u0026#x27;d told me that one day we could hover over a map and see house sale prices and an automated valuation, I wouldn\u0026#x27;t have believed you.\u003cp\u003ePlenty of organisations, associations, and government departments publish great data in secret - sometimes just without the fanfare it warrants, and sometimes surreptitiously because they are required to even if they don\u0026#x27;t want to publish.\u003cp\u003eWhat are some of the meaningful or cool data sources you\u0026#x27;ve used or uncovered in the past?",
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652333615,
+        "_tags": ["story", "author_JacobAldridge", "story_31349645", "ask_hn"],
+        "objectID": "31349645",
+        "_highlightResult": {
+            "title": {
+                "value": "Ask HN: What are some good sources of data that most people don't know about?",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "JacobAldridge",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_text": {
+                "value": "I remember my first job in a real estate agency in 2000 - if you'd told me that one day we could hover over a map and see house sale prices and an automated valuation, I wouldn't have believed you.\u003cp\u003ePlenty of organisations, associations, and government departments publish great data in secret - sometimes just without the fanfare it warrants, and sometimes surreptitiously because they are required to even if they don't want to publish.\u003cp\u003eWhat are some of the meaningful or cool data sources you've used or uncovered in the past?",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:33:16.000Z",
+        "title": "Detroit man making $2k a day with marijuana vending machine",
+        "url": "https://www.clickondetroit.com/news/local/2022/05/08/sunday-read-18-guns-found-at-home-of-detroit-man-making-2000-a-day-with-marijuana-vending-machine-police-say/",
+        "author": "rmason",
+        "points": 2,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 1,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652333596,
+        "_tags": ["story", "author_rmason", "story_31349644"],
+        "objectID": "31349644",
+        "_highlightResult": {
+            "title": {
+                "value": "Detroit man making $2k a day with marijuana vending machine",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://www.clickondetroit.com/news/local/2022/05/08/sunday-read-18-guns-found-at-home-of-detroit-man-making-2000-a-day-with-marijuana-vending-machine-police-say/",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "rmason",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:28:21.000Z",
+        "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database",
+        "url": "https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-time-series-database.html",
+        "author": "mlerner",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652333301,
+        "_tags": ["story", "author_mlerner", "story_31349612"],
+        "objectID": "31349612",
+        "_highlightResult": {
+            "title": {
+                "value": "Monarch: Google’s Planet-Scale In-Memory Time Series Database",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-time-series-database.html",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "mlerner",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:23:54.000Z",
+        "title": "A deep dive into async runtimes in Rust",
+        "url": "https://conradludgate.com/posts/async",
+        "author": "conradludgate",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652333034,
+        "_tags": ["story", "author_conradludgate", "story_31349591"],
+        "objectID": "31349591",
+        "_highlightResult": {
+            "title": {
+                "value": "A deep dive into async runtimes in Rust",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://conradludgate.com/posts/async",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "conradludgate",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:19:22.000Z",
+        "title": "Nina Jankowicz says “verified people” should be able to edit people's tweets",
+        "url": "https://twitter.com/TPostMillennial/status/1524422163725434881",
+        "author": "yessirwhatever",
+        "points": 5,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 1,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652332762,
+        "_tags": ["story", "author_yessirwhatever", "story_31349566"],
+        "objectID": "31349566",
+        "_highlightResult": {
+            "title": {
+                "value": "Nina Jankowicz says “verified people” should be able to edit people's tweets",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://twitter.com/TPostMillennial/status/1524422163725434881",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "yessirwhatever",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:18:33.000Z",
+        "title": "SimpleX – messaging platform without user identifiers – 100% private by design",
+        "url": "https://github.com/simplex-chat/simplex-chat",
+        "author": "thunderbong",
+        "points": 2,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652332713,
+        "_tags": ["story", "author_thunderbong", "story_31349561"],
+        "objectID": "31349561",
+        "_highlightResult": {
+            "title": {
+                "value": "SimpleX – messaging platform without user identifiers – 100% private by design",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://github.com/simplex-chat/simplex-chat",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "thunderbong",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:17:06.000Z",
+        "title": "The story of ARKK does not look so great anymore",
+        "url": "https://twitter.com/JonathanBeuys/status/1524619155529469953",
+        "author": "JonathanBeuys",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652332626,
+        "_tags": ["story", "author_JonathanBeuys", "story_31349553"],
+        "objectID": "31349553",
+        "_highlightResult": {
+            "title": {
+                "value": "The story of ARKK does not look so great anymore",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://twitter.com/JonathanBeuys/status/1524619155529469953",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "JonathanBeuys",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:16:55.000Z",
+        "title": "The Birth of the Egghead Paperback",
+        "url": "https://theamericanscholar.org/the-birth-of-the-egghead-paperback/",
+        "author": "samclemens",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652332615,
+        "_tags": ["story", "author_samclemens", "story_31349552"],
+        "objectID": "31349552",
+        "_highlightResult": {
+            "title": {
+                "value": "The Birth of the Egghead Paperback",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://theamericanscholar.org/the-birth-of-the-egghead-paperback/",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "samclemens",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T05:10:30.000Z",
+        "title": "Teach me Your way, O levie",
+        "url": "https://twitter.com/typesfast/status/1524528012850438144",
+        "author": "JamesAdir",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652332230,
+        "_tags": ["story", "author_JamesAdir", "story_31349518"],
+        "objectID": "31349518",
+        "_highlightResult": {
+            "title": {
+                "value": "Teach me Your way, O levie",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://twitter.com/typesfast/status/1524528012850438144",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "JamesAdir",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T04:55:56.000Z",
+        "title": "The risk of ever-increasing internet outages",
+        "url": "https://www.lemonde.fr/en/economy/article/2022/05/11/the-risk-of-ever-increasing-internet-outages_5983131_19.html",
+        "author": "edward",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652331356,
+        "_tags": ["story", "author_edward", "story_31349450"],
+        "objectID": "31349450",
+        "_highlightResult": {
+            "title": {
+                "value": "The risk of ever-increasing internet outages",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://www.lemonde.fr/en/economy/article/2022/05/11/the-risk-of-ever-increasing-internet-outages_5983131_19.html",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "edward",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2022-05-12T04:53:20.000Z",
+        "title": "Mystery of industry-focused backdoored NPM packages solved",
+        "url": "https://www.theregister.com/2022/05/12/npm-attacks-code-white-jfrog/",
+        "author": "walterbell",
+        "points": 1,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1652331200,
+        "_tags": ["story", "author_walterbell", "story_31349431"],
+        "objectID": "31349431",
+        "_highlightResult": {
+            "title": {
+                "value": "Mystery of industry-focused backdoored NPM packages solved",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://www.theregister.com/2022/05/12/npm-attacks-code-white-jfrog/",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "author": {
+                "value": "walterbell",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }],
+    "nbHits": 2031212,
+    "page": 0,
+    "nbPages": 50,
+    "hitsPerPage": 20,
+    "exhaustiveNbHits": false,
+    "exhaustiveTypo": true,
+    "query": "",
+    "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026tags=story",
+    "processingTimeMS": 2
+}
