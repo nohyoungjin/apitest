@@ -1,18 +1,20 @@
 {"pageno":0,"pagesize":0,"totalcount":148,"contacts":[
 
 {
-	"no": 1681779867072,
-	"name": "Bmster",
-	"tel": "010-1111-1222",
-	"address": "서울",
-	"photo": "http://sample.bmaster.kro.kr/photos/noimage.jpg"
+	"no": 1,
+	"sido": "강원도 철원군",
+	"name": "철원 힐링터 문화상점-역사공원점",
+	"city": "철원군",
+	"addr": "강원도 철원군 철원읍 금강산로 262",
+	"state": "지역생산품 위탁판매장 운영중"
 },
 {
-	"no": 1601087500073,
-	"name": "Kel Bailey",
-	"tel": "010-3456-8200",
-	"address": "서울시",
-	"photo": "http://sample.bmaster.kro.kr/photos/1.jpg"
+	"no": 1,
+	"sido": "강원도 철원군",
+	"name": "철원 힐링터 문화상점-역사공원점",
+	"city": "철원군",
+	"addr": "강원도 철원군 철원읍 금강산로 262",
+	"state": "지역생산품 위탁판매장 운영중"
 }
 
 ]}
